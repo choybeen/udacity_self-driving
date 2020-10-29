@@ -42,9 +42,8 @@
 ## Step4 after Compile this NN , begin to Train
     the training data divide into training and validation, of 30%, the last parameter shows : validation_split=0.3
     the whole training time only 12.56 second on my GTX2080, since the network is small, and input image also small
-    though this NN is small, but is works well
-    ### 4.1
+    though this NN is small, but is works well, it reaches more than 95% at Epoch 10/20, and accuracy reaches at 0.9807 at last
 
 ## Step5 test on the trained model performance on test data
 
-
+    ![GitHub Logo](/readme_images/accuracy.pngg)
