@@ -46,4 +46,4 @@
 
 ## Step5 test on the trained model performance on test data
 
-    <img src="./readme_images/accuracy.png">    
+    <img src="/readme_images/accuracy.png">    
