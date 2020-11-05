@@ -17,11 +17,13 @@
 
 ## step7, mark the left and right lane area seperately
 
-## step8, mark the left and right lane area seperately
+after hough detection, using course value mark the areas we find real lane, by drawing white lines in black image to create mask
+
+## step8, get more precision result with mask of coarse lines
 
  ![GitHub Logo](https://github.com/choybeen/udacity_self-driving/blob/main/lane_detection_basic/Capturer.JPG?raw=true)
  
-## step9, mark the lane area by left/right line
+## step9, last result, mark the lane area by left/right line
 
 # this process methond could applied on some videos
 
