@@ -46,4 +46,4 @@
 
 ## Step5 test on the trained model performance on test data
 
-    ![GitHub Logo](/readme_images/accuracy.pngg)
+    <img src="/readme_images/accuracy.png">    
