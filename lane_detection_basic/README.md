@@ -25,7 +25,11 @@
 
 # this process methond could applied on some videos
 
- [![Fibonacci RMI Java EE](https://github.com/choybeen/udacity_self-driving/blob/main/lane_detection_basic/Capturev.JPG?raw=true)](https://youtu.be/naG1hxNbbY4)
+since the secereo change quick in reality, but the lane position and angle values are continue, tracking the lane of next frame in near area avoid jittering 
+
+ [![Fibonacci RMI Java EE](https://github.com/choybeen/udacity_self-driving/blob/main/lane_detection_basic/Capturev.JPG?raw=true)](https://youtu.be/9D5ahYHA_nE)
+
+ [![Fibonacci RMI Java EE](https://github.com/choybeen/udacity_self-driving/blob/main/lane_detection_basic/Capturev2.JPG?raw=true)](https://youtu.be/naG1hxNbbY4)
 
 
 
